@@ -1,0 +1,13 @@
+# dataset (cloned automatically by the notebook)
+brain-tumor-classification-dataset/
+
+# files the notebook regenerates when it runs
+figures/
+*.pt
+split.csv
+results_comparison.csv
+history_*.json
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
